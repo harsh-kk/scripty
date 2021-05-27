@@ -12,7 +12,7 @@
   <a href="https://github.com/harsh-kk/scripty/releases">
     <img src="https://img.shields.io/badge/release-1.0-orange">
   </a>
-  <a href="https://twitter.com/xploitprotocol">
+  <a href="https://twitter.com/harshinsecurity">
       <img src="https://img.shields.io/twitter/follow/xploitprotocol?style=social">
   </a>
 </p>
